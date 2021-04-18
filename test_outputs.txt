@@ -1,0 +1,4 @@
+1 : {'primary_color': '#dfd8fd', 'border_color': '#e0d9fe'}
+2 : {'primary_color': '#716e6d', 'border_color': '#f6f4ef'}
+3 : {'primary_color': '#ffffff', 'border_color': '#1a1a1a'}
+4 : {'primary_color': '#020202', 'border_color': '#03fd98'}
